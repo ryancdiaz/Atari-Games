@@ -1,5 +1,7 @@
 Penalty Shootout (FIFA1977 Prototype)
 
+To run, use Stella (Atari emulator) and open PenaltyShootout.bas.bin
+
 Controls:
 - Players choose a direction to shoot in (Up, Left, or Right)
 - Lock in direction by pressing the fire button
